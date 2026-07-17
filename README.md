@@ -32,7 +32,7 @@ Developed by **Humaima Anwar**
 
 ---
 ## 📁 Repository Structure
-
+```
 ├── data/
 │ ├── movielens/
 │ ├── imdb/
@@ -59,7 +59,7 @@ Developed by **Humaima Anwar**
 │ ├── evaluation_scores/
 │
 └── README.md
-
+```
 ---
 
 ## 🛠️ Tech Stack
