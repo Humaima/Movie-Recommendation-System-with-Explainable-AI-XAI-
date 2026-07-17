@@ -2,6 +2,14 @@
 
 A **Hybrid Explainable AI (XAI) Movie Recommendation System** that combines **Neural Collaborative Filtering (NCF)**, **Content-Based Filtering**, **Knowledge Graphs**, and **SHAP/LIME-based explanations** to provide **accurate, transparent, and user-friendly movie recommendations**.
 
+<img width="1916" height="1016" alt="pic 1" src="https://github.com/user-attachments/assets/2c3fb7d5-8897-4a27-a41b-a2d9d572a138" />
+
+<img width="1912" height="1016" alt="pic 2" src="https://github.com/user-attachments/assets/85792cb5-bc58-4671-b5a7-7aff89412f90" />
+
+<img width="1912" height="1007" alt="pic 3" src="https://github.com/user-attachments/assets/050642e7-ecb2-47f8-bcb9-c10f7eb03d45" />
+
+<img width="1917" height="1012" alt="pic 4" src="https://github.com/user-attachments/assets/85b57f43-83bb-4e7d-b402-c67e468c23e8" />
+
 Developed by **Humaima Anwar**
 
 ---
